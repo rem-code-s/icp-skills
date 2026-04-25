@@ -2,5 +2,8 @@
   "name": "icp-skills",
   "version": "0.1.0",
   "description": "Ambient access to the Dfinity Internet Computer skills registry (https://skills.internetcomputer.org). Claude automatically consults live Dfinity guidance for ICP topics like canisters, Motoko, Rust canisters, ckBTC, Internet Identity, and SNS.",
-  "author": ""
+  "author": {
+    "name": "remco",
+    "url": "https://github.com/rem-code-s"
+  }
 }
