@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "fake-alpha",
+      "description": "Fake skill alpha for test purposes. Use when testing sync behavior.",
+      "url": "https://example.invalid/.well-known/skills/fake-alpha/SKILL.md"
+    },
+    {
+      "name": "fake-beta",
+      "description": "Fake skill beta for test purposes. Use when testing prune behavior.",
+      "url": "https://example.invalid/.well-known/skills/fake-beta/SKILL.md"
+    }
+  ]
+}

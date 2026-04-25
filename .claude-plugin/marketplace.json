@@ -1,0 +1,13 @@
+{
+  "name": "icp-plugins",
+  "owner": {
+    "name": "remco"
+  },
+  "plugins": [
+    {
+      "name": "icp-skills",
+      "source": ".",
+      "description": "Ambient access to the Dfinity Internet Computer skills registry. Claude consults live Dfinity guidance for ICP topics."
+    }
+  ]
+}
